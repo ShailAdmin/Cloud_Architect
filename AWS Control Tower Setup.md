@@ -28,6 +28,9 @@ Below are the steps to Set Up AWS Landing Zone Using AWS Control Tower
 
 <a href="https://aws.amazon.com/console/" class="highlight" target="_blank" rel="noopener noreferrer">Log In as Administrator IAM User ro Root User</a>
 
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/f35c5bfa-27ec-4f4e-8f7c-1215984ff90a">
+
+
 
 
 
