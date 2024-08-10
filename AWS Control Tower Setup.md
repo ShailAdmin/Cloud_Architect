@@ -4,11 +4,10 @@
     <h1>AWS COntrol Tower</h1>
     <p>If you want to setup the AWS control tower Landing zone setup please follow the AWS documentation</br><a href="https://docs.aws.amazon.com/controltower/latest/userguide/getting-started-with-control-tower.html"></p>
     <h2>Pre-requities:</h2>
-    <li>Account:
+    <li>
                 <li>Management Account (Master Account)</li>
                 <li>Email/DL for Log archive account</li>
                 <li>Email/DL for Audit account</li>
-             Other Requirment:
                 <li>Service Quotas (AWS Servic Quotas)</li>
                 <li>Single AWS Organization</li>
                 <li>Trusted Access</li>
