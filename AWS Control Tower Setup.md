@@ -38,7 +38,6 @@ Navigate to AWS Control Tower </br></br>
 Review pricing and select Regions (Pricing, Home Region, Aditional Region, Region To Deny)</br>
 <!DOCTYPE html>
 <html lang="en">
-
 <body>
     <h1>Home Region</h1>
     <p>
@@ -47,10 +46,13 @@ Review pricing and select Regions (Pricing, Home Region, Aditional Region, Regio
     <p>
         <strong>Important:</strong> Once the landing zone is set up, you cannot change the home Region. However, you can expand governance to additional Regions after the initial setup.
     </p>
+     <h1>Additional Regions for governance</h1>
+    <p>
+         You can optionally choose The <strong> additional Regions</strong>  for AWS Control Tower to govern
+    </p>
 </body>
 </html>
-
-Home Region - This is the AWS Region where shared resources will be provisioned. You cannot change the home Region after the&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; landing zone is set up, but you can add more Regions to govern.</br>
+</br>
 Additional Regions for governance - You can optionally choose additional Regions for AWS Control Tower to govern.</br>
 Region deny setting - If you have data residency requirements, you can optionally choose to enable a Region deny service control policy (SCP) to deny access in Regions that aren't selected.</br>
 <img width="314" alt="image" src="https://github.com/user-attachments/assets/ec56de1c-60c2-4be8-b465-9ad7ed2b7426"></br>
