@@ -36,7 +36,6 @@ Navigate to AWS Control Tower </br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="631" alt="image" src="https://github.com/user-attachments/assets/ed66e6ac-6459-4bf6-8b6d-30a8745179b2"></br></br>
 
 Review pricing and select Regions (Pricing, Home Region, Aditional Region, Region To Deny)</br>
-### Home Region
 <!DOCTYPE html>
 <html lang="en">
 
