@@ -12,8 +12,8 @@ Other Requirment: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trusted Access </br>
 
 </br>
-Below are the steps to Set Up Landing Zone Using AWS Control Tower
-</br>
+Below are the steps to Set Up AWS Landing Zone Using AWS Control Tower
+</br></br></br>
 1. Log In as Administrator IAM User</br>
 2. Create Landing Zone Using AWS Control Tower</br>
 3. Set AWS Account Root User Password and Enable MFA</br>
