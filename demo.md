@@ -51,7 +51,7 @@
             <h2>Configure Regions</h2>
             <p>Review pricing and select Regions (Pricing, Home Region, Additional Region, Region To Deny)</p>
             <h2>Home Region</h2>
-            <h2>This is the AWS Region where shared resources will be provisioned. You cannot change the home Region after the landing zone is set up, but you can add more Regions to govern.</p>
+            <p>This is the AWS Region where shared resources will be provisioned. You cannot change the home Region after the landing zone is set up, but you can add more Regions to govern.</p>
             <h2>Additional Regions for governance</h2>
             <p> You can optionally choose additional Regions for AWS Control Tower to govern.</p>
             <h2>Region deny setting</h2>
