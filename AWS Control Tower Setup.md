@@ -26,7 +26,7 @@ Below are the steps to Set Up AWS Landing Zone Using AWS Control Tower
 10. Review AWS Control Tower Best Practices for Administrators</br></br></br>
 
 
-<a href="https://aws.amazon.com/console/" class="highlight" target="_blank" rel="noopener noreferrer>Log In as Administrator IAM User ro Root User</a>
+<a href="https://aws.amazon.com/console/" class="highlight" target="_blank" rel="noopener noreferrer">Log In as Administrator IAM User ro Root User</a>
 
 
 
