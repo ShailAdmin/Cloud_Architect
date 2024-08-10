@@ -71,6 +71,12 @@
         <!-- Step: Additional Configurations -->
         <div class="step">
             <h2>Additional Configurations</h2>
+            <ul>
+                <li>AWS account access configuration</li>
+                <li>AWS Cloud Trail Configuration</li>
+                <li>Log Configuration for Amazon S3</li>
+                <li>KMS encryption</li>
+            </ul>
             <img src="https://github.com/user-attachments/assets/95c82da1-09d6-4030-99f7-c04cde17a559" alt="Additional Configurations">
         </div>
         <!-- Step: Review and Set Up Landing Zone -->
