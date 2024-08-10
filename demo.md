@@ -26,7 +26,7 @@
         </ul>
         <h2>Steps to Set Up AWS Landing Zone Using AWS Control Tower</h2>
         <ol>
-            <li>Log In as Administrator IAM User</li>
+            <li><a href="#iam">Log In as Administrator IAM User</a></li>
             <li>Create Landing Zone Using AWS Control Tower</li>
             <li>Set AWS Account Root User Password and Enable MFA</li>
             <li>Log In Via Control Tower Administrator User</li>
@@ -37,7 +37,7 @@
             <li>Disable Account Factory VPC Provisioning</li>
             <li>Review AWS Control Tower Best Practices for Administrators</li>
         </ol>
-        <h2>Log In as Administrator IAM User or Root User</h2>
+        <h2 class="section" id="iam">Log In as Administrator IAM User or Root User</h2>
         <p><a href="https://aws.amazon.com/console/" class="highlight" target="_blank" rel="noopener noreferrer">AWS Managment Console</a></p>
         <!-- Step: Create Landing Zone -->
         <div class="step">
