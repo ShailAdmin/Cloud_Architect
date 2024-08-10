@@ -3,13 +3,13 @@ If you want to setup the AWS control tower Landing zone setup please follow the 
 
 Pre-requities : </br>
 Account : </br>
-      Management Account (Master Account) </br>
-      Log archive account </br>
-      Audit account </br>
+&nbsp;&nbsp;Management Account (Master Account) </br>
+&nbsp;&nbsp;Log archive account </br>
+&nbsp;&nbsp;Audit account </br>
 Other Requirment: </br>
-      Service Quotas (AWS Servic Quotas) </br>
-      Single AWS Organization </br>
-      Trusted Access </br>
+&nbsp;&nbsp;Service Quotas (AWS Servic Quotas) </br>
+&nbsp;&nbsp;Single AWS Organization </br>
+&nbsp;&nbsp;Trusted Access </br>
       
 
 
