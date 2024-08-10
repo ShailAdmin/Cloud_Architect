@@ -72,7 +72,7 @@
         <div class="step">
             <h2>Additional Configurations</h2>
             <ul>
-                <li>AWS account access configuration</li>
+                <li><h3>AWS account access configuration</h3><p>You can optionally choose to manage account access yourself or accept the default IAM Identity Center setup in AWS Control Tower.</p></li>
                 <li>AWS Cloud Trail Configuration</li>
                 <li>Log Configuration for Amazon S3</li>
                 <li>KMS encryption</li>
