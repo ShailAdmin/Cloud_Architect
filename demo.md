@@ -73,9 +73,9 @@
             <h2>Additional Configurations</h2>
             <ul>
                 <li><h3>AWS account access configuration</h3><p>You can optionally choose to manage account access yourself or accept the default IAM Identity Center setup in AWS Control Tower.</p></li>
-                <li>AWS Cloud Trail Configuration</li>
-                <li>Log Configuration for Amazon S3</li>
-                <li>KMS encryption</li>
+                <li><h3>AWS Cloud Trail Configuration</h3><p>You can optionally choose to manage CloudTrail in your organization yourself or accept the default CloudTrail setup from AWS Control Tower. The default setting enables an organization-level trail for management events in your Log Archive account.</p></li>
+                <li><h3>Log Configuration for Amazon S3</h3><p>You can optionally configure log retention for the Log Archive S3 bucket or accept the default retention periods.</p></li>
+                <li><h3>KMS encryption</h3><p>You can optionally enable encryption for AWS Control Tower resources by using an AWS Key Management Service (AWS KMS) customer managed key. If you enable encryption, you are asked to specify the key name or Amazon Resource Name (ARN) of the customer managed key to be used.</p></li>
             </ul>
             <img src="https://github.com/user-attachments/assets/95c82da1-09d6-4030-99f7-c04cde17a559" alt="Additional Configurations">
         </div>
