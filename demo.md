@@ -87,7 +87,7 @@
         <div class="step">
             <h2>Review and Set Up Landing Zone</h2>
             <img src="https://github.com/user-attachments/assets/a98a09ef-2810-4455-b66c-51b6e4595506" alt="Review Landing Zone">
-            <h2>wait for the Landing Zone setup to complete</h2>
+            <h2>Wait for the Landing Zone setup to complete</h2>
             <img src="https://github.com/user-attachments/assets/386e0494-da3f-4598-ae95-a80ffd7a717d" alt="Set Up Landing Zone">
         </div>
     </div>
