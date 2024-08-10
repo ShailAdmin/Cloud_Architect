@@ -1,40 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AWS Control Tower Landing Zone Setup</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        a.highlight {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        a.highlight:hover {
-            text-decoration: underline;
-        }
-        .container {
-            padding: 20px;
-        }
-        .step {
-            margin-bottom: 20px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 10px 0;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>AWS Control Tower Landing Zone Setup</h1>
