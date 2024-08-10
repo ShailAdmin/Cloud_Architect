@@ -37,8 +37,8 @@
             <li>Disable Account Factory VPC Provisioning</li>
             <li>Review AWS Control Tower Best Practices for Administrators</li>
         </ol>
-        <h2>Links:</h2>
-        <p><a href="https://aws.amazon.com/console/" class="highlight" target="_blank" rel="noopener noreferrer">Log In as Administrator IAM User or Root User</a></p>
+        <h2>Log In as Administrator IAM User or Root User</h2>
+        <p><a href="https://aws.amazon.com/console/" class="highlight" target="_blank" rel="noopener noreferrer">AWS Managment Console</a></p>
         <!-- Step: Create Landing Zone -->
         <div class="step">
             <h2>Create Landing Zone Using AWS Control Tower</h2>
@@ -50,9 +50,12 @@
         <div class="step">
             <h2>Configure Regions</h2>
             <p>Review pricing and select Regions (Pricing, Home Region, Additional Region, Region To Deny)</p>
-            <p>Home Region: This is the AWS Region where shared resources will be provisioned. You cannot change the home Region after the landing zone is set up, but you can add more Regions to govern.</p>
-            <p>Additional Regions for governance: You can optionally choose additional Regions for AWS Control Tower to govern.</p>
-            <p>Region deny setting: If you have data residency requirements, you can optionally choose to enable a Region deny service control policy (SCP) to deny access in Regions that aren't selected.</p>
+            <h2>Home Region</h2>
+            <h2>This is the AWS Region where shared resources will be provisioned. You cannot change the home Region after the landing zone is set up, but you can add more Regions to govern.</p>
+            <p>Additional Regions for governance</h2>
+            <p> You can optionally choose additional Regions for AWS Control Tower to govern.</p>
+            <2>Region deny setting</h2>
+            <p> If you have data residency requirements, you can optionally choose to enable a Region deny service control policy (SCP) to deny access in Regions that aren't selected.</p>
             <img src="https://github.com/user-attachments/assets/ec56de1c-60c2-4be8-b465-9ad7ed2b7426" alt="Configure Regions">
         </div>
         <!-- Step: Configure Organizational Units -->
