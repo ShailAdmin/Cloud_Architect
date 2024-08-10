@@ -6,17 +6,13 @@
     <h2>Pre-requities:</h2>
     <li>
               Account:
-            <ul>
                 <li>Management Account (Master Account)</li>
                 <li>Email/DL for Log archive account</li>
                 <li>Email/DL for Audit account</li>
-            </ul>
              Other Requirment:
-            <ul>
                 <li>Service Quotas (AWS Servic Quotas)</li>
                 <li>Single AWS Organization</li>
                 <li>Trusted Access</li>
-            </ul>
     </li>
     <h1>Home Region</h1>
     <p>
