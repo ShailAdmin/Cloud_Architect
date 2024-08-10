@@ -50,12 +50,16 @@
         <div class="step">
             <h2>Configure Regions</h2>
             <p>Review pricing and select Regions (Pricing, Home Region, Additional Region, Region To Deny)</p>
+            <ol>
+            <li>    
             <h3>Home Region</h3>
-            <p>This is the AWS Region where shared resources will be provisioned. You cannot change the home Region after the landing zone is set up, but you can add more Regions to govern.</p>
+            <p>This is the AWS Region where shared resources will be provisioned. You cannot change the home Region after the landing zone is set up, but you can add more Regions to govern.</p></li>
+            <li>
             <h3>Additional Regions for governance</h3>
-            <p> You can optionally choose additional Regions for AWS Control Tower to govern.</p>
+            <p> You can optionally choose additional Regions for AWS Control Tower to govern.</p></li><li>
             <h3>Region deny setting</h3>
-            <p> If you have data residency requirements, you can optionally choose to enable a Region deny service control policy (SCP) to deny access in Regions that aren't selected.</p>
+            <p> If you have data residency requirements, you can optionally choose to enable a Region deny service control policy (SCP) to deny access in Regions that aren't selected.</p></li>
+            </ol>
             <img src="https://github.com/user-attachments/assets/ec56de1c-60c2-4be8-b465-9ad7ed2b7426" alt="Configure Regions">
         </div>
         <!-- Step: Configure Organizational Units -->
