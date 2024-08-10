@@ -25,7 +25,10 @@ Below are the steps to Set Up AWS Landing Zone Using AWS Control Tower
 9. Disable Account Factory VPC Provisioning</br>
 10. Review AWS Control Tower Best Practices for Administrators</br>
 
-<a href="#1-log-in-as-administrator-iam-user" class="highlight">1. Log In as Administrator IAM User</a>
+
+<a href="https://aws.amazon.com/console/" class="highlight">Log In as Administrator IAM User ro Root User</a>
+
+
 
       
 
