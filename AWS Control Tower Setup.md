@@ -49,6 +49,20 @@ If you have data residency requirements, you can optionally choose to enable a R
 </br>
 </br>
 <img width="314" alt="image" src="https://github.com/user-attachments/assets/ec56de1c-60c2-4be8-b465-9ad7ed2b7426"></br>
+Configure organizational units (OUs) </br>
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/4ffba41b-a7c5-49f0-bcf8-e39451c609db">
+
+Configure shared accounts </br>
+<img width="356" alt="Screenshot 2024-08-10 224529" src="https://github.com/user-attachments/assets/4a4b0e0e-e75e-4601-a648-4ff718a8997f">
+Additional configurations</br>
+<img width="322" alt="Screenshot 2024-08-10 224711" src="https://github.com/user-attachments/assets/95c82da1-09d6-4030-99f7-c04cde17a559">
+Review and set up landing zone</br>
+<img width="224" alt="Screenshot 2024-08-10 224737" src="https://github.com/user-attachments/assets/a98a09ef-2810-4455-b66c-51b6e4595506">
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/386e0494-da3f-4598-ae95-a80ffd7a717d">
+
+
+
+
 
 
 
