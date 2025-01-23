@@ -89,7 +89,7 @@ As a cloud architect, it's essential to have a comprehensive understanding of a 
 ### Migration and Transfer
 
 51. **AWS Database Migration Service (DMS)**: Migrate databases to AWS.
-52. **AWS Server Migration Service (SMS)**: Migrate on-premises servers to AWS.
+52. **AWS Application Migration Service (MGN)**: Migrate on-premises servers to AWS.
 53. **AWS Snowball**: Physical data transfer service.
 
 ### Edge Services
